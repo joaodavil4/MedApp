@@ -26,7 +26,7 @@ import androidx.compose.ui.text.font.FontWeight
 import androidx.compose.ui.tooling.preview.Preview
 import androidx.compose.ui.unit.dp
 import com.leafwise.medapp.R
-import com.leafwise.medapp.data.entity.MedicationEntity
+import com.leafwise.medapp.framework.db.entity.MedicationEntity
 import com.leafwise.medapp.presentation.ui.components.LoadingIndicator
 import com.leafwise.medapp.presentation.ui.components.MedItem
 

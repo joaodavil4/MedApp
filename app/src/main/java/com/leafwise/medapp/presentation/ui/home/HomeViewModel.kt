@@ -1,7 +1,7 @@
 package com.leafwise.medapp.presentation.ui.home
 
 import androidx.lifecycle.ViewModel
-import com.leafwise.medapp.data.entity.MedicationEntity
+import com.leafwise.medapp.framework.db.entity.MedicationEntity
 
 class HomeViewModel : ViewModel() {
 

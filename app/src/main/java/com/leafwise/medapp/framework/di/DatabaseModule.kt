@@ -2,7 +2,7 @@ package com.leafwise.medapp.framework.di
 
 import android.content.Context
 import androidx.room.Room
-import com.leafwise.medapp.data.AppDatabase
+import com.leafwise.medapp.framework.db.AppDatabase
 import dagger.Module
 import dagger.Provides
 import dagger.hilt.InstallIn
