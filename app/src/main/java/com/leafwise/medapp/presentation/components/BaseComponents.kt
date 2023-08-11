@@ -140,8 +140,8 @@ fun SelectDateItem(
                 timePicker.value = it
             },
             selectedTime = timePicker.value,
-            confirmLabel = stringResource(id = R.string.medsheet_schedule),
-            title = stringResource(id = R.string.medsheet_select_time)
+            confirmLabel = stringResource(id = R.string.select_date_confirm_label),
+            title = stringResource(id = R.string.select_date_time_picker_title)
         )
 
 }

@@ -1,5 +1,7 @@
 <resources>
     <string name="app_name">MedApp</string>
+    <string name="select_date_confirm_label">Schedule</string>
+    <string name="select_date_time_picker_title">Select time</string>
 
 <!--    Home-->
     <string name="home_empty_view">There is no meds registered! Tell me about the ones you need and we will take care!</string>
@@ -17,9 +19,6 @@
     <string name="medsheet_how_many_times">How many times per day</string>
     <string name="medsheet_how_many_days">How many days</string>
     <string name="medsheet_dose">Dose 1</string>
-    <string name="medsheet_schedule">Schedule</string>
-    <string name="medsheet_select_time">Select time</string>
-
 <!--    Type medication labels-->
     <string name="medsheet_type_none">None</string>
     <string name="medsheet_type_pill">Pill</string>
@@ -33,6 +32,4 @@
     <string name="medsheet_type_long_acting_injectable">Long-acting injectable</string>
     <string name="medication_added">The medication has been successfully added!</string>
     <string name="some_unknown_error">Some unknown error occurred.</string>
-
-
 </resources>

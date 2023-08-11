@@ -1,5 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+    <string name="select_date_confirm_label">Agendar</string>
+    <string name="select_date_time_picker_title">Selecione a hora</string>
+  
     <string name="app_name">MedApp</string>
     <string name="home_empty_view">Não há medicamentos cadastrados! Conte-me sobre o que você precisa e nós cuidaremos!</string>
     <string name="save">Salvar</string>
@@ -13,8 +16,6 @@
     <string name="medsheet_how_many_times">Quantas vezes ao dia</string>
     <string name="medsheet_how_many_days">Por quantos dias</string>
     <string name="medsheet_dose">Dose 1</string>
-    <string name="medsheet_schedule">Agendar</string>
-    <string name="medsheet_select_time">Selecione a hora</string>
     <!--    Type medication labels-->
     <string name="medsheet_type_none">Nenhum</string>
     <string name="medsheet_type_pill">Comprimido</string>
